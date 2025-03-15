@@ -18,9 +18,8 @@ const Navbar = () => {
           
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#" className="text-white hover:text-gray-200">3D MODELS</a>
-            <a href="#" className="text-white hover:text-gray-200">COURSES</a>
-            <a href="#" className="text-white hover:text-gray-200">ENCYCLOPEDIA</a>
+            <a href="#" className="text-white hover:text-gray-200">PRODUCTS</a>
+            <a href="#" className="text-white hover:text-gray-200">CATALOG</a>
             <a href="#" className="text-white hover:text-gray-200">PRICING</a>
             <a href="#" className="text-white hover:text-gray-200">CONTACT</a>
             <a href="#" className="bg-white text-[#4B79B6] px-6 py-2 rounded-full hover:bg-gray-100 transition-colors">
